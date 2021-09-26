@@ -1,0 +1,126 @@
+  border-radius: 20%;"
+*::before,
+*::after{
+	margin: 0;
+	padding: 0;
+	box-sizing: inherit;
+
+}
+
+body{
+	background-image: url('../img/back01.jpg');
+  margin-top: 1%;
+  height: 150vh;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  background-repeat: no-repeat;
+
+  background: url(../img/back01.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;    
+    background-repeat: no-repeat;
+}
+html{
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	box-sizing: border-box;
+}
+
+
+
+section{
+	text-align: center;
+	height: 150vh;
+	background-color: ;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.back{
+	background: rgba(0,0,0,0.2);
+  background-color: lightyellow;
+  margin:6px;
+  text-transform: uppercase; 
+  color: blue;
+  word-spacing: 2px;
+  text-shadow: 4px 6px 10px red;
+
+  padding: 10px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 20%;"
+}
+
+.container{
+	width: 100%;
+	max-width: 60rem;
+	padding: 0 1.5rem;
+}
+.accordion-item{
+	background-color: #283042;
+	border-radius: .4rem;
+	margin-bottom: 1rem;
+	padding: 1rem;
+	box-shadow: .5rem 2px .5rem rgba(0,0,0.1);
+}
+.accordion-link{
+	font-size: 1.6rem;
+	color: rgba(255,255,255,.8);
+	text-decoration: none;
+	background-color: #283042;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 1rem 0;
+}
+
+.accordion-link i{
+	color: #e7d5ff;
+	padding: .10rem;
+}
+
+.accordion-link .ion-md-remove{
+	display: none;
+
+}
+
+.answer{
+	max-height: 0;
+	overflow: hidden;
+	position: relative;
+	background-color: rgba(0,0,0,0.2);
+	transition: max-height 650ms;
+	font-family: 'Big Shoulders Stencil Display', cursive;
+}
+.answer::before{
+	content: "";
+	position: absolute;
+	width: .6rem;
+	height: 90%;
+	background-color: #8fc460;
+	top: 50%;
+	left: 0;
+	transform: translateY(-50%);
+
+}
+
+.answer p{
+	color: rgba(255,255,255,.6);
+	 font-size: 1.4rem;
+	 padding: 2rem;
+}
+.accordion-item:target .answer{
+	max-height: 20rem;
+}
+.accordion-item:target .accordion-link .ion-md-add{
+	display: none;
+}
+.accordion-item:target .accordion-link .ion-md-remove{
+	display: block;
+}

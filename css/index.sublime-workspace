@@ -1,0 +1,290 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"word",
+				"word-spacing\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"bac",
+				"background-position\tproperty"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"back",
+				"background-size\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 171.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ADMIN/Desktop/ass4.html",
+		"/B/mini project/index.html",
+		"/B/mini project/html/select.html",
+		"/B/mini project/css/index.css",
+		"/B/mini project/html/s1.html",
+		"/C/Users/ADMIN/Desktop/bamu mini-project/index.html",
+		"/C/Users/ADMIN/Desktop/ss project/blood1.css",
+		"/C/Users/ADMIN/Desktop/ss project/HOMEPAGE.html",
+		"/C/Users/ADMIN/Desktop/ss project/home.css",
+		"/C/Users/ADMIN/Desktop/bamu mini-project/precautions.html",
+		"/C/Users/ADMIN/Desktop/ss project/login.html",
+		"/B/copy of ILP/ajax.googleapis.com/ajax/libs/webfont/1/webfont.js",
+		"/B/copy of ILP/indialearningpoint.com/members/gp4141/courses/index.html",
+		"/B/practical2.html",
+		"/B/copy of ILP/indialearningpoint.com/members/gp4141/courses/practical2.html",
+		"/C/Users/ADMIN/Desktop/bamu mini-project/student1st.css",
+		"/C/Users/ADMIN/Desktop/bamu mini-project/s2nd.css",
+		"/C/Users/ADMIN/Desktop/bamu mini-project/forget2nd.html",
+		"/C/Users/ADMIN/Desktop/bamu mini-project/2ndregistrationnow.html",
+		"/C/Users/ADMIN/Desktop/bamu mini-project/s1.css",
+		"/C/Users/ADMIN/Desktop/bamu mini-project/3rdregistrationnow.html",
+		"/C/Users/ADMIN/Desktop/demo2.html",
+		"/B/blood donation/blooddonatio.html",
+		"/C/Users/ADMIN/Desktop/bamu mini-project/n1.html",
+		"/C/Users/ADMIN/Desktop/bamu mini-project/t1.html",
+		"/C/Users/ADMIN/Desktop/bamu mini-project/sdno.html",
+		"/C/Users/ADMIN/Desktop/bamu mini-project/tno.html",
+		"/C/Users/ADMIN/Desktop/bamu mini-project/nno.html",
+		"/C/Users/ADMIN/Desktop/bamu mini-project/forgot3.html",
+		"/C/Users/ADMIN/Desktop/bamu mini-project/1sts.html",
+		"/C/Users/ADMIN/Desktop/bamu mini-project/1stregistrationnow.html",
+		"/C/Users/ADMIN/Desktop/bamu mini-project/s1.html",
+		"/C/Users/ADMIN/Desktop/bamu mini-project/s2nd.html",
+		"/C/Users/ADMIN/Desktop/bamu mini-project/s3rd.html",
+		"/C/Users/ADMIN/Desktop/bamu mini-project/forget3rd.html",
+		"/C/Users/ADMIN/Desktop/bamu mini-project/index1.html",
+		"/C/Users/ADMIN/Desktop/bamu mini-project/submit.html",
+		"/C/Users/ADMIN/Desktop/bamu mini-project/registernow.html",
+		"/C/Users/ADMIN/Desktop/bamu mini-project/newgencode.html",
+		"/C/Users/ADMIN/Desktop/bamu mini-project/contactus.html",
+		"/C/Users/ADMIN/Desktop/bamu mini-project/bamuregistration.html",
+		"/C/Users/ADMIN/Desktop/ss project/blood.css",
+		"/C/Users/ADMIN/Desktop/ss project/adminmain.html",
+		"/C/Users/ADMIN/Desktop/ss project/blooddonatio.html",
+		"/C/Users/ADMIN/Desktop/ss project/blooddonation.html",
+		"/C/Users/ADMIN/Desktop/ss project/log2.html",
+		"/C/Users/ADMIN/Desktop/ss project/thankurequst.html",
+		"/C/Users/ADMIN/Desktop/ss project/subblood.html",
+		"/C/Users/ADMIN/Desktop/ss project/mustread.html",
+		"/C/Users/ADMIN/Desktop/ss project/requst.html",
+		"/C/Users/ADMIN/Desktop/bamu mini-project/forget.html",
+		"/B/blood donation/loginadmin.html",
+		"/C/Users/ADMIN/Desktop/covid registration form/s2nd.html",
+		"/C/Users/ADMIN/Desktop/covid registration form/s3rd.html",
+		"/C/Users/ADMIN/Desktop/covid registration form/s2nd.css",
+		"/C/Users/ADMIN/Desktop/covid registration form/s1.css",
+		"/C/Users/ADMIN/Desktop/covid registration form/forget2nd.html",
+		"/C/Users/ADMIN/Desktop/covid registration form/forget.html",
+		"/C/Users/ADMIN/Desktop/covid registration form/2ndregistrationnow.html",
+		"/C/Users/ADMIN/Desktop/covid registration form/3rdregistrationnow.html",
+		"/C/Users/ADMIN/Desktop/covid registration form/index.html",
+		"/C/Users/ADMIN/Desktop/covid registration form/bamuregistration.html",
+		"/C/Users/ADMIN/Desktop/bamu mini-project/blooddonatio.html",
+		"/B/blood donation/practical.html",
+		"/C/Users/ADMIN/Desktop/covid registration form/bamucovidvaccination.html",
+		"/C/Users/ADMIN/Desktop/covid registration form/blooddonatio.html",
+		"/C/Users/ADMIN/Desktop/covid registration form/registernow.html",
+		"/C/Users/ADMIN/Desktop/covid registration form/1.html",
+		"/C/Users/ADMIN/Desktop/covid registration form/subblood.html",
+		"/C/Users/ADMIN/Desktop/covid registration form/index1.html",
+		"/C/Users/ADMIN/Desktop/covid registration form/sample.html",
+		"/C/Users/ADMIN/Desktop/covid registration form/contactus.html",
+		"/C/Users/ADMIN/Desktop/covid registration form/table.html",
+		"/C/Users/ADMIN/Desktop/covid registration form/pr2.html",
+		"/C/Users/ADMIN/Desktop/covid registration form/prc2.html",
+		"/C/xampp/htdocs/nil/covid practice registratipon form.html",
+		"/C/Users/ADMIN/Desktop/index.html",
+		"/C/xampp/htdocs/nil/wp-blog-header.php",
+		"/C/Users/ADMIN/Downloads/dc090906-c7d0-4f5a-bfb9-15f35e3ddd27.tmp",
+		"/C/Users/ADMIN/Desktop/nil/contact.html",
+		"/C/Users/ADMIN/Desktop/hmsprogrm.cpp",
+		"/C/Users/ADMIN/Documents/welcome.vbs",
+		"/B/sample/index.html",
+		"/C/Users/ADMIN/Downloads/Hospital-Management-System-Project/Hospital Management System Project/hospital/hms/doctor/reset-password.php",
+		"/C/Users/ADMIN/Documents/hms.py",
+		"/C/Users/ADMIN/Documents/hms.cpp",
+		"/C/Users/ADMIN/Desktop/hs1.html",
+		"/C/Users/ADMIN/Desktop/patientappointment.html",
+		"/C/xampp/htdocs/Hospital/patient.php",
+		"/C/Users/ADMIN/Documents/2nd.html"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 257.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

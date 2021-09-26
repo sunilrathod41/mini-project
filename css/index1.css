@@ -1,0 +1,119 @@
+body{
+		background-image: url('../img/covid6.jpg');
+		background-size: cover;
+		background-repeat: no-repeat;
+		height: 60px;
+}
+*{
+	margin: 0; padding: 0; box-sizing: border-box;
+} 
+
+header{
+	background-size: cover;
+
+}
+
+.wrapper{
+width: 1500px; 
+margin: 0 auto;
+margin-left: 13%;
+}
+.wrapper ul{
+list-style: none;
+margin-top: 3%;
+}
+.wrapper ul li {
+background: #262626;
+width: 170px;
+border: 1px solid #fff;
+height: 50px;
+line-height: 50px;
+text-align: center;
+float: left;
+color: #fff;
+font-size: 16px;
+position: relative;
+font-family: poppins;
+text-transform: uppercase;
+font-weight: bold;
+}
+.wrapper ul li:hover{
+background: crimson; 
+}
+
+.wrapper ul ul{
+display: none;
+}
+.wrapper ul li:hover > ul{
+display: block;
+}
+.wrapper ul ul ul ul{
+margin-left: 170px;
+top: 0;
+position: absolute;
+}
+main{
+	width: 100%;
+	
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	color: white;
+}
+ 
+ h1{
+	font-size: 45px;font-weight: 50; letter-spacing: 3px;
+	text-shadow: 2px 6px 8px green;
+	text-transform: uppercase; 
+	margin-top: 12%;
+	margin-left: 5%;
+	text-decoration: none; color: lightyellow;
+	font-weight: bold;
+
+}
+section{
+	margin-top: none;
+	margin-bottom: 12%;
+}
+section h2 {
+	background: rgba(0,0,0,0.2);
+	margin-top: 25px;
+	text-transform: uppercase; 
+	color: #eee;
+	word-spacing: 2px;
+	text-shadow: 4px 6px 10px red;
+
+
+}
+section p{
+	background: rgba(0,0,0,0.2);
+	font-size: 35px;
+	word-spacing: 4px;
+	margin-bottom: 35px;
+	margin-top: 25px;
+	text-shadow: 2px 2px 2px black;
+	color:rgba(255,204,0);
+}
+section a{
+	padding: 12px 30px;
+	border-radius: 4px;
+	outline: none;
+	text-transform: uppercase;
+	font-size: 13px;
+	font-weight: 500;
+	text-decoration: none;
+	letter-spacing: 1px;
+}
+
+section .btn2{
+	 background: #262626;;
+	color: white;
+	margin-left: 10px;
+	background: crimson;
+	font-family: poppins;
+text-transform: uppercase;
+font-weight: bold; 
+
+}
+
